@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![hyeg0](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/
 
 
 **Hyevvy/Hyevvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

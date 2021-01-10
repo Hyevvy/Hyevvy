@@ -9,4 +9,5 @@
 
 [![SolvedAC2tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeg0)](https://solved.ac/hyeg0) 
 
-![](screen-shot-2021-01-10-at-8-39-43-pm-kjr2jgfh.png)
+<img width="428" alt="Screen Shot 2021-01-10 at 8 39 43 PM" src="https://user-images.githubusercontent.com/72402747/104121895-16034180-5385-11eb-8ce8-5dbdb0250d81.png">
+

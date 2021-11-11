@@ -8,7 +8,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyevvy&count_bg=%23FA7343&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Hits](https://img.shields.io/github/followers/Hyevvy?label=Follow)
-[![naverblog](https://img.shields.io/badge/naver-blog-badge)](http://blog.naver.com/hyevvy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyevvy&layout=compact)
 

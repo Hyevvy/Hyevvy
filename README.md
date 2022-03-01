@@ -3,17 +3,8 @@
 ### Hi there 👩🏻‍💻❤️
 
 안녕, 날 보러 와줘서 고마워! (●'◡'●)
-
-
-</div>
-  
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyevvy&layout=compact) 
  
-![hyevvy's github stats](https://github-readme-stats.vercel.app/api?username=hyevvy&show_icons=true&theme=merko)
-
-  </div>
+</div>
 
 
 
